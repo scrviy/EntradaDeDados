@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtGVmc72n2spf084+IDhEzN1VwHvK4Ad2LzcsVhKM+89Qe/oT4vtn88bWojqMwcpmq1fHifwWGOoxrDGS4A8Xw==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/EntradaDeDados.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

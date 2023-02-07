@@ -1,0 +1,15 @@
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/bin/Debug/net6.0/EntradaDeDados
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/bin/Debug/net6.0/EntradaDeDados.deps.json
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/bin/Debug/net6.0/EntradaDeDados.runtimeconfig.json
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/bin/Debug/net6.0/EntradaDeDados.dll
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/bin/Debug/net6.0/ref/EntradaDeDados.dll
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/bin/Debug/net6.0/EntradaDeDados.pdb
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.csproj.AssemblyReference.cache
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.AssemblyInfoInputs.cache
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.AssemblyInfo.cs
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.dll
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/ref/EntradaDeDados.dll
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.pdb
+/home/scrviy/dev/CursoNelioAlves/EntradaDeDados/obj/Debug/net6.0/EntradaDeDados.genruntimeconfig.cache
